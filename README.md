@@ -133,4 +133,4 @@ Machine Learning • IoT Systems • Cyber Security Basics
 
 ---
 
-✨ **Go where your dreams take you — and make it meaningful.**
+✨ **Go where your dreams take you**

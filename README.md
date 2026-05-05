@@ -63,11 +63,38 @@ Machine Learning • IoT Systems • Cyber Security Basics
 
 ## 🧩 Projects
 
+### 🐶 Happy Hoodie – REST API System
+
+* Backend system for managing customer interactions, hoodie orders, and feedback
+* Designed and developed a RESTful API using Spring Boot
+* Implemented layered architecture (Controller → Service → Repository)
+* Built CRUD operations for Customer, Order, and Feedback modules
+* Implemented entity relationships (One-to-Many: Customer → Orders/Feedback)
+* Created custom query methods (e.g., retrieve orders by customer ID)
+* Tested APIs using Postman
+* Tech: Java, Spring Boot, JPA, Hibernate, MySQL
+
+---
+
+### 🏠 Hostel Management System (HMS)
+
+* Full-stack web application for managing hostel room allocation and student requests
+* Implemented secure session-based authentication for students and admin
+* Built room request workflow (Request → Admin Approval / Reject)
+* Designed relational database (Students ↔ Room Requests)
+* Used prepared statements to prevent SQL injection
+* Implemented AJAX-based request submission (no page reload)
+* Developed admin dashboard to manage room requests
+* Tech: PHP, MySQL, JavaScript, HTML, CSS, AJAX, XAMPP
+
+---
+
 ### 🌐 Personal Portfolio Website
 
 * Responsive portfolio built using HTML & CSS
 * Features: About Me, Skills, Achievements, Contact
 * Includes animations and interactive UI
+* Tech: HTML, CSS, JavaScript
 
 ---
 
@@ -75,6 +102,7 @@ Machine Learning • IoT Systems • Cyber Security Basics
 
 * Desktop application for hardware store management
 * Features: Billing, inventory, reports & PDF invoices
+* Designed relational database for product and transaction tracking
 * Tech: C#, .NET, SQL Server, RDLC
 * Group Project
 
@@ -85,6 +113,7 @@ Machine Learning • IoT Systems • Cyber Security Basics
 * IoT + AI wearable system for posture & wellness monitoring
 * Features: Health tracking, emotion detection, GPS & communication
 * Reached Final Round – TechNovation 2025
+* Tech: IoT, AI, Embedded Systems
 * Group Project
 
 ---
@@ -93,6 +122,7 @@ Machine Learning • IoT Systems • Cyber Security Basics
 
 * Real-time system to improve presentation skills
 * Features: Time alerts, repetition detection, speech analysis
+* Integrated voice processing using Python libraries
 * Tech: Python, Vosk, ESP32, Mobile App
 * Group Project
 
@@ -102,6 +132,7 @@ Machine Learning • IoT Systems • Cyber Security Basics
 
 * IoT-based automated student attendance system
 * Real-time tracking with web dashboard
+* Data stored and synced using cloud database
 * Tech: ESP32, RFID, Firebase, Web App
 * Group Project
 
